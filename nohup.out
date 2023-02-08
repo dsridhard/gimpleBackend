@@ -1,0 +1,227 @@
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/opt/Gimple/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/opt/Gimple/index.js:20:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+Server started at http://localhost:5000
+Server started at http://localhost:5000
+Connected to database as id 422
+Connected to database as id 423
+Connected to database as id 424
+Connected to database as id 426
+Connected to database as id 427
+Connected to database as id 430
+Server started at http://localhost:5000
+Connected to database as id 432
+Server started at http://localhost:5000
+Connected to database as id 433
+Connected to database as id 434
+Connected to database as id 435
+Connected to database as id 436
+Connected to database as id 437
+Server started at http://localhost:5000
+undefined
+Connected to database as id 438
+undefined
+undefined
+undefined
+undefined
+undefined
+Server started at http://localhost:5000
+Connected to database as id 442
+Connected to database as id 443
+Connected to database as id 444
+Connected to database as id 445
+Connected to database as id 446
+Connected to database as id 447
+Server started at http://localhost:5000
+Connected to database as id 448
+Connected to database as id 449
+Connected to database as id 450
+Connected to database as id 451
+Connected to database as id 452
+ReferenceError: path is not defined
+    at /opt/Gimple/server.js:20:22
+    at Layer.handle [as handle_request] (/opt/Gimple/node_modules/express/lib/router/layer.js:95:5)
+    at next (/opt/Gimple/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/opt/Gimple/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/opt/Gimple/node_modules/express/lib/router/layer.js:95:5)
+    at /opt/Gimple/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/opt/Gimple/node_modules/express/lib/router/index.js:346:12)
+    at next (/opt/Gimple/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/opt/Gimple/node_modules/express/lib/router/index.js:175:3)
+    at router (/opt/Gimple/node_modules/express/lib/router/index.js:47:12)
+ReferenceError: path is not defined
+    at /opt/Gimple/server.js:20:22
+    at Layer.handle [as handle_request] (/opt/Gimple/node_modules/express/lib/router/layer.js:95:5)
+    at next (/opt/Gimple/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/opt/Gimple/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/opt/Gimple/node_modules/express/lib/router/layer.js:95:5)
+    at /opt/Gimple/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/opt/Gimple/node_modules/express/lib/router/index.js:346:12)
+    at next (/opt/Gimple/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/opt/Gimple/node_modules/express/lib/router/index.js:175:3)
+    at router (/opt/Gimple/node_modules/express/lib/router/index.js:47:12)
+Connected to database as id 453
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/opt/Gimple/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/opt/Gimple/index.js:22:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (net.js:1345:8)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+Server started at http://localhost:5000
+Connected to database as id 454
+Connected to database as id 455
+ReferenceError: path is not defined
+    at /opt/Gimple/server.js:20:22
+    at Layer.handle [as handle_request] (/opt/Gimple/node_modules/express/lib/router/layer.js:95:5)
+    at next (/opt/Gimple/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/opt/Gimple/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/opt/Gimple/node_modules/express/lib/router/layer.js:95:5)
+    at /opt/Gimple/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/opt/Gimple/node_modules/express/lib/router/index.js:346:12)
+    at next (/opt/Gimple/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/opt/Gimple/node_modules/express/lib/router/index.js:175:3)
+    at router (/opt/Gimple/node_modules/express/lib/router/index.js:47:12)
+Connected to database as id 456
+Connected to database as id 457
+Connected to database as id 458
+Server started at http://localhost:5000
+ReferenceError: path is not defined
+    at /opt/Gimple/server.js:20:22
+    at Layer.handle [as handle_request] (/opt/Gimple/node_modules/express/lib/router/layer.js:95:5)
+    at next (/opt/Gimple/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/opt/Gimple/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/opt/Gimple/node_modules/express/lib/router/layer.js:95:5)
+    at /opt/Gimple/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/opt/Gimple/node_modules/express/lib/router/index.js:346:12)
+    at next (/opt/Gimple/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/opt/Gimple/node_modules/express/lib/router/index.js:175:3)
+    at router (/opt/Gimple/node_modules/express/lib/router/index.js:47:12)
+Connected to database as id 459
+Connected to database as id 460
+Connected to database as id 461
+Server started at http://localhost:5000
+Connected to database as id 462
+Connected to database as id 463
+Connected to database as id 464
+Connected to database as id 465
+Connected to database as id 466
+Server started at http://localhost:5000
+/opt/Gimple/scripts/register.sh
+Connected to database as id 483
+Connected to database as id 486
+Connected to database as id 484
+Connected to database as id 485
+Connected to database as id 487
+SyntaxError: Unexpected token 
+ in JSON at position 30
+    at JSON.parse (<anonymous>)
+    at parse (/opt/Gimple/node_modules/body-parser/lib/types/json.js:89:19)
+    at /opt/Gimple/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:198:9)
+    at invokeCallback (/opt/Gimple/node_modules/raw-body/index.js:231:16)
+    at done (/opt/Gimple/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/opt/Gimple/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+Server started at http://localhost:5000
+Connected to database as id 488
+Connected to database as id 489
+Connected to database as id 490
+Connected to database as id 491
+Connected to database as id 492
+Connected to database as id 493
+/opt/Gimple/scripts/register.sh
+SyntaxError: Unexpected token 
+ in JSON at position 29
+    at JSON.parse (<anonymous>)
+    at parse (/opt/Gimple/node_modules/body-parser/lib/types/json.js:89:19)
+    at /opt/Gimple/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:198:9)
+    at invokeCallback (/opt/Gimple/node_modules/raw-body/index.js:231:16)
+    at done (/opt/Gimple/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/opt/Gimple/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+/opt/Gimple/scripts/register.sh
+SyntaxError: Unexpected token 
+ in JSON at position 30
+    at JSON.parse (<anonymous>)
+    at parse (/opt/Gimple/node_modules/body-parser/lib/types/json.js:89:19)
+    at /opt/Gimple/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:198:9)
+    at invokeCallback (/opt/Gimple/node_modules/raw-body/index.js:231:16)
+    at done (/opt/Gimple/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/opt/Gimple/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+Server started at http://localhost:5000
+Connected to database as id 496
+Connected to database as id 497
+Connected to database as id 498
+Connected to database as id 499
+Connected to database as id 500
+Server started at http://localhost:5000
+Connected to database as id 501
+Server started at http://localhost:5000
+172.16.14.36
+Connected to database as id 502
+Connected to database as id 503
+Connected to database as id 504
+Connected to database as id 505
+Connected to database as id 506
+172.16.14.36
+SyntaxError: Unexpected token , in JSON at position 20
+    at JSON.parse (<anonymous>)
+    at parse (/opt/Gimple/node_modules/body-parser/lib/types/json.js:89:19)
+    at /opt/Gimple/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:198:9)
+    at invokeCallback (/opt/Gimple/node_modules/raw-body/index.js:231:16)
+    at done (/opt/Gimple/node_modules/raw-body/index.js:220:7)
+    at IncomingMessage.onEnd (/opt/Gimple/node_modules/raw-body/index.js:280:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+Connected to database as id 507
+172.16.14.78
